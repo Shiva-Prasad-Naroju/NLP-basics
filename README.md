@@ -32,7 +32,7 @@ Preprocessing transforms raw text into a format that NLP models can understand a
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/nlp-preprocessing.git
+   git clone https://github.com/Shiva-Prasad-Naroju/NLP-basics.git
 
 ## 📌 Final Notes:
 
